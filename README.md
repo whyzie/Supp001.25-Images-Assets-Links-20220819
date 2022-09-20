@@ -22,12 +22,12 @@
     <th>No Image Asset</th></tr>
 <tr>
 <td><img style="float:left" src="https://user-images.githubusercontent.com/97485455/191153210-1317a534-2db6-4f6b-9eb2-57a9aaba61b0.png" width="100%"></td>
-<td>![001  Img Banner Welcome Static 1600_400 20220819](https://user-images.githubusercontent.com/97485455/191153210-1317a534-2db6-4f6b-9eb2-57a9aaba61b0.png)</td>
+<td>![001  Img Banner Welcome 1600_400 Ver 1 20220819](https://user-images.githubusercontent.com/97485455/191153210-1317a534-2db6-4f6b-9eb2-57a9aaba61b0.png)</td>
 <td> Img00100120220819</td>
 </tr>
 <tr>
 <td><img style="float:left" src="https://user-images.githubusercontent.com/97485455/191153632-79f38af5-8942-4229-bf84-84e8dd3913ae.gif" width="100%"></td>
-<td>![002  Banner Welcome Animation 1600_400 20220819](https://user-images.githubusercontent.com/97485455/191153632-79f38af5-8942-4229-bf84-84e8dd3913ae.gif)</td>
+<td>![002  Banner Welcome Ver 1 1600_400 20220819](https://user-images.githubusercontent.com/97485455/191153632-79f38af5-8942-4229-bf84-84e8dd3913ae.gif)</td>
 <td> Ima00100120220819</td>
 </tr>
 </table>
@@ -68,10 +68,20 @@
 </tr>
 <tr>
 <td><img style="float:left" src="https://user-images.githubusercontent.com/97485455/191224283-e8eefca1-c057-491d-b441-298cc7e8d0b6.gif" width="100%"></td>
-<td>![004  Checklist 20220819](https://user-images.githubusercontent.com/97485455/191224283-e8eefca1-c057-491d-b441-298cc7e8d0b6.gif)</td>
+<td>![004 Checklist Ver 1 20220819](https://user-images.githubusercontent.com/97485455/191224283-e8eefca1-c057-491d-b441-298cc7e8d0b6.gif)</td>
 <td> Ima00200220220819</td>
 </tr>
 
+<tr>
+<td><img style="float:left" src="https://user-images.githubusercontent.com/97485455/191228703-05884c4f-5b7a-4942-bca9-6923be57eba9.png" width="100%"></td>
+<td>![004 Img Key Points Ver 1 20220819](https://user-images.githubusercontent.com/97485455/191228703-05884c4f-5b7a-4942-bca9-6923be57eba9.png)</td>
+<td> Img00200320220819</td>
+</tr>
+<tr>
+<td><img style="float:left" src="https://user-images.githubusercontent.com/97485455/191229220-afebbf9d-08b2-4f12-acf8-816f19b6eb17.gif" width="100%"></td>
+<td>![004 Key Points Ver 1 20220819](https://user-images.githubusercontent.com/97485455/191229220-afebbf9d-08b2-4f12-acf8-816f19b6eb17.gif)</td>
+<td> Ima00200320220819</td>
+</tr>
 
 </table>
 
